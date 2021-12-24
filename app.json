@@ -1,6 +1,6 @@
 {
-    "name": "Bottus",
-    "description": " Whatsapp bot.",
+    "name": "Tuttoos",
+    "description": " WhatsApp Bot made with ❤️ by Cosmic`Bug👾.",
     "keywords": [
         "whatsapp",
         "bot"
@@ -79,7 +79,7 @@
         },
         "STICKER_PACKNAME": {
             "description": "Sticker pack name,author",
-            "value": "🥰,lyfe00011"
+            "value": "Buggy👾"
         }
     },
     "addons": [
